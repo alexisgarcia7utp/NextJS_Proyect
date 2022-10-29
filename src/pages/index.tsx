@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 import Head from 'next/head'
 import Image from 'next/image'
 import { ApplicationWrappers } from '../components/layout/ApplicationWrappers';
-
+//hola
 type HomeProps = {
   response: string;
 };

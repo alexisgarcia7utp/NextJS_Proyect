@@ -15,10 +15,10 @@ export const Nav : FC = () => {
           Galaxy
         </Link> 
         <div className="flex grow justify-end text-xs">
-          {userName && <span>El usuario es {userName}</span>}
-          {!userName && <span>No hay sesión</span>}
+          {userName && <span> User: {userName} &nbsp; </span> }
+          {!userName && <span> No se ha iniciado sesión &nbsp;</span>}
           <span>{ userDetail.status.enabled }</span>
-          <span>{ userDetail.email }</span>
+          <span>{ userDetail.email} &nbsp; | &nbsp; </span>
           <button className="border shadow" onClick={() => {setUsername('Alexis Garcia')}}>log in</button>
         </div>
       </nav>     

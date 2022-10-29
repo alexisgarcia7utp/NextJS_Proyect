@@ -1,7 +1,7 @@
 {
   "galaxy": [
     {
-      "id": 1,
+      "id": 0,
       "Nombre": "Samsung Galaxy Note 20 Ultra",
       "Dimensiones": "164.8 x 77.2 x 8.1 mm",
       "Peso": "208 g",
@@ -18,7 +18,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-20-ultra.jpg"
     },
     {
-      "id": 2,
+      "id": 1,
       "Nombre": "Samsung Galaxy Note 20",
       "Dimensiones": "161.6 x 75.2 x 8.3 mm",
       "Peso": "192 g",
@@ -35,7 +35,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-20.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "Nombre": "Samsung Galaxy Note 10+",
       "Dimensiones": "162.3 x 77.2 x 7.9 mm",
       "Peso": "196 g",
@@ -52,7 +52,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-10-plus.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "Nombre": "Samsung Galaxy Note 10",
       "Dimensiones": "151 x 71.8 x 7.9 mm",
       "Peso": "168 g",
@@ -69,7 +69,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-10.jpg"
     },
     {
-      "id": 5,
+      "id": 4,
       "Nombre": "Samsung Galaxy Note 10 Lite",
       "Dimensiones": "163.7 x 76.1 x 8.7 mm",
       "Peso": "199 g",
@@ -86,7 +86,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-10-lite.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "Nombre": "Samsung Galaxy Note 9",
       "Dimensiones": "161.9 x 76.4 x 8.8 mm",
       "Peso": "201 g",
@@ -103,7 +103,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-9.jpg"
     },
     {
-      "id": 7,
+      "id": 6,
       "Nombre": "Samsung Galaxy Note 8",
       "Dimensiones": "162.5 x 74.8 x 8.6 mm",
       "Peso": "195 g",
@@ -120,7 +120,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-8.jpg"
     },
     {
-      "id": 8,
+      "id": 7,
       "Nombre": "Samsung Galaxy Note7",
       "Dimensiones": "153.5 x 73.9 x 7.9 mm",
       "Peso": "169 g",
@@ -137,7 +137,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-7.jpg"
     },
     {
-      "id": 9,
+      "id": 8,
       "Nombre": "Samsung Galaxy Note5",
       "Dimensiones": "153.2 x 76.1 x 7.6 mm",
       "Peso": "171 g",
@@ -154,7 +154,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-5.jpg"
     },
     {
-      "id": 10,
+      "id": 9,
       "Nombre": "Samsung Galaxy Note Edge",
       "Dimensiones": "151.3 x 82.4 x 8.3 mm",
       "Peso": "174 g",
@@ -171,7 +171,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-edge.jpg"
     },
     {
-      "id": 11,
+      "id": 10,
       "Nombre": "Samsung Galaxy Note 4",
       "Dimensiones": "153.5 x 78.6 x 8.5 mm",
       "Peso": "176 g",
@@ -188,7 +188,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-4.jpg"
     },
     {
-      "id": 12,
+      "id": 11,
       "Nombre": "Samsung Galaxy Note 3",
       "Dimensiones": "151.2 x 79.2 x 8.3mm",
       "Peso": "168 g",
@@ -205,7 +205,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-3.jpg"
     },
     {
-      "id": 13,
+      "id": 12,
       "Nombre": "Samsung GALAXY Note II",
       "Dimensiones": "151.1 x 80.5 x 9.4 mm",
       "Peso": "183 g",
@@ -222,7 +222,7 @@
       "Poster": "https://cdn1.smart-gsm.com/picture/samsung-galaxy-note-2.jpg"
     },
     {
-      "id": 14,
+      "id": 13,
       "Nombre": "Samsung GALAXY Note",
       "Dimensiones": "146.85 x 82.95 x 9.65 mm",
       "Peso": "178 g",

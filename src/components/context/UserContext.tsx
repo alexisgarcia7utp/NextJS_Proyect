@@ -34,4 +34,3 @@ export const UserContextProvider: React.FC<PropsWithChildren> = ({ children }) =
     {children}
   </userContext.Provider>);
 };
-

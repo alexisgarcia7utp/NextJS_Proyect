@@ -23,7 +23,7 @@ export default function Index() {
 
   const onChangeHandler = (event: React.ChangeEvent<HTMLInputElement>) => {
     setTexto(event.target.value);
-    console.log('input changed!!!', event.target.value);
+    console.log('input changed', event.target.value);
   };
 
   const onNumberChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -58,13 +58,13 @@ export default function Index() {
       status: {
         enabled: true
       },
-      email: 'instructor.modificado@rootstack.com'
+      email: 'alexis.garcia7@utp.ac.pa'
     });
     event.preventDefault();
   };
 
   const onDivClickHandler = () => {
-    console.log('clio en el div');
+    console.log('clic en el div');
   };
 
   // @ts-ignore

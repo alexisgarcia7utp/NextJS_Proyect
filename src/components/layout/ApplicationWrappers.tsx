@@ -33,7 +33,7 @@ export const ApplicationWrappers: FC <PropsWithChildren <TProps>> = (
           >
             Powered by{' '}
             <span className=''>
-              alexisgar09
+              Alexis Antonio García | alexis.garcia7@utp.ac.pa
             </span>
           </a>
         </footer>

@@ -1,7 +1,9 @@
 import Link from 'next/link'
-import React, { FC } from 'react'
+import React, { FC, useContext } from 'react';
+import { userContext, UserContextProps } from '../context/UserContext';
 
 export const Nav : FC = () => {
+  const { userName, setUsername, userDetail } = useContext<UserContextProps>(userContext);
   return (
     <div>
       <nav className="w-full flex gap-5 p-6 items-center text-2xl text-white">
@@ -11,7 +13,14 @@ export const Nav : FC = () => {
         {/*/ --5px-- */}
         <Link href="/galaxy">
           Galaxy
-        </Link>  
+        </Link> 
+        <div className="flex grow justify-end text-xs">
+          {userName && <span>El usuario es {userName}</span>}
+          {!userName && <span>No hay sesión</span>}
+          <span>{ userDetail.status.enabled }</span>
+          <span>{ userDetail.email }</span>
+          <button className="border shadow" onClick={() => {setUsername('Alexis Garcia')}}>log in</button>
+        </div>
       </nav>     
     </div>
   )
